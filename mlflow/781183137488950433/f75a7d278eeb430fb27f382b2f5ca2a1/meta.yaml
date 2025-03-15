@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\bruno.deon\Desktop\Workspace\AirFlow\mlflow/781183137488950433/f75a7d278eeb430fb27f382b2f5ca2a1/artifacts
+end_time: 1740763830654
+entry_point_name: ''
+experiment_id: '781183137488950433'
+lifecycle_stage: active
+run_id: f75a7d278eeb430fb27f382b2f5ca2a1
+run_name: likeable-ape-531
+run_uuid: f75a7d278eeb430fb27f382b2f5ca2a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740763823239
+status: 3
+tags: []
+user_id: bruno.deon

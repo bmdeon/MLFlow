@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\bruno.deon\Desktop\Workspace\AirFlow\mlflow/370614023596435975/bf45cf21903f429c80482d4cfa33710b/artifacts
+end_time: 1740761756192
+entry_point_name: ''
+experiment_id: '370614023596435975'
+lifecycle_stage: active
+run_id: bf45cf21903f429c80482d4cfa33710b
+run_name: awesome-snail-727
+run_uuid: bf45cf21903f429c80482d4cfa33710b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740761751335
+status: 3
+tags: []
+user_id: bruno.deon

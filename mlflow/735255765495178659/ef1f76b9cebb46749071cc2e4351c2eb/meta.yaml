@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\bruno.deon\Desktop\Workspace\AirFlow\mlflow/735255765495178659/ef1f76b9cebb46749071cc2e4351c2eb/artifacts
+end_time: 1740766449909
+entry_point_name: ''
+experiment_id: '735255765495178659'
+lifecycle_stage: active
+run_id: ef1f76b9cebb46749071cc2e4351c2eb
+run_name: gregarious-bug-299
+run_uuid: ef1f76b9cebb46749071cc2e4351c2eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740766443708
+status: 3
+tags: []
+user_id: bruno.deon
